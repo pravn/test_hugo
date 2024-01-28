@@ -1,5 +1,5 @@
 baseURL = 'https://pravn.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Cactus Land'
 theme = 'ananke'
 publishDir = "docs"
