@@ -5,7 +5,5 @@ draft = true
 +++
 
 ## Introduction
-This is **bold** text, and this is *emphasized* text.
-
 This is the dead land, this is cactus land.
 Here the stone images are raised
