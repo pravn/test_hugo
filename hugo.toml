@@ -1,4 +1,4 @@
-baseURL = 'https://pravn.github.io/'
+baseURL = 'https://pravn.github.io/test_hugo'
 languageCode = 'en-us'
 title = 'Cactus Land'
 theme = 'ananke'
