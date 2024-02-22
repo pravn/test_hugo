@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Forum Topic #40998 on Cactus Land</title>
-    <link>http://localhost:1313/test_hugo/</link>
-    <description>Recent content in Hugo Forum Topic #40998 on Cactus Land</description>
+    <title>Examples on Cactus Land</title>
+    <link>http://localhost:1313/test_hugo/examples/</link>
+    <description>Recent content in Examples on Cactus Land</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Oct 2022 18:24:02 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/test_hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/test_hugo/examples/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KaTeX Shortcode</title>
       <link>http://localhost:1313/test_hugo/examples/katex-shortcode/</link>
